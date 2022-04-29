@@ -6,10 +6,10 @@
     <summary># Datastructure</summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
-  * Stack (C)
-  * Queue (C)
-  * Linked List (C)
-  * Tree (C)
+  * Stack (C,Python, Java)
+  * Queue (C, Java)
+  * Linked List (C, Java)
+  * Tree (C, Java)
 
 </details>
 
