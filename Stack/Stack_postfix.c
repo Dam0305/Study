@@ -1,4 +1,3 @@
-//데이터 구조 5주차 과제
 //후위표기수식의 값을 계산하는 프로그램
 #include <stdio.h>
 #include <stdlib.h> 
